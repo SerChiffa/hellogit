@@ -1,5 +1,5 @@
 Hello world!
 
-Hello Githab!
+Hello Github!
 
 Hello Space!
